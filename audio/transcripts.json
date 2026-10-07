@@ -1,0 +1,11 @@
+{
+"evaluation_metadata": {
+"project_name": "audio-llm-speed-benchmark",
+"model_tested": "GPT-4o-Audio-Preview",
+"file_name": "audio8-asr-infinite-demo.mp4"
+"total_duration_sec": 120.0,
+"speaker_id": "speaker_01",
+"audio_context_understanding": "Complex live forum speech with background noise and room reverb",
+},
+  "global_instructions": {
+    "
